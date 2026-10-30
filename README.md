@@ -8,7 +8,7 @@ I'm a self-taught data analysis with a background in retail- now building impact
 - POWER BI
 
 ## My projects
-- [mysql training project assignment] (....)
+- [mysql training project assignment] (https://github.com/oladejoolawale57-cell/mysql-project-assignment-from-DIGITAL-WORLD-ACADEMY)
 
 ## Currently  Learning
 - Python
