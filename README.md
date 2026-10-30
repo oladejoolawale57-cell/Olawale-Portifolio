@@ -1,2 +1,22 @@
-# Olawale-Portifolio
-personal github profile to showcase projects  and tool i work it.
+ # Hi, I'm Olawale!
+
+I'm a self-taught data analysis with a background in retail- now building impactful project in Excel, SQL and POWER BI
+
+## Tools I work with
+- MICROSOFT EXCEL
+- MYSQL
+- POWER BI
+
+## My projects
+- [mysql training project assignment] (....)
+
+## Currently  Learning
+- Python
+- Advanced SQL
+- Visual Basic 8.0
+
+## Let's connect
+[linkedin](....)
+[Tiktok](....)
+[Facebook](....)
+  
